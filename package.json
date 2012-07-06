@@ -1,0 +1,14 @@
+{
+  "name": "jqueryuify",
+  "description": "jQueryUI lib for browsers",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fholgado/jqueryuify.git"
+  },
+  "author": "Federico Holgado <fholgado@gmail.com>",
+  "engines": {
+    "node": "*"
+  },
+  "main": "./index.js"
+}
